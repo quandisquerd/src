@@ -20,4 +20,5 @@
 
 
 
-    -upload image
+    - upload image
+    - validate
