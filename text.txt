@@ -1,0 +1,23 @@
+   - product:
++ getall product (có limit sort order page)
++ create product 
++ delete product 
++ getone product
++ update product
++ checkpermission
+
+    - user:
++ đăng ký 
++ đăng nhập 
++ checkpermission
+
+    -category:
++ getall cat
++ getone cat
++ create cat
++ delete cat 
++ update cat
+
+
+
+    -upload image
